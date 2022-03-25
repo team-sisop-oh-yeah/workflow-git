@@ -1,0 +1,7 @@
+Merge crea un nuevo commit, pero no lo pushea
+
+Checkout a hash anterior: para mantener nuevos commits hay que hacer git switch -c branch para guardarlos en una nueva branch
+
+git checkout hash document: cambia el estado del documento actual a como estaba en ese hash
+
+git revert hash: crea un nuevo commit con el estado dicho
